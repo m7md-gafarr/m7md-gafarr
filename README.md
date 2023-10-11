@@ -4,13 +4,19 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
 
 ## skills 
 <ul>
-  <li>Java</li>
-  <li>Python</li>
   <li>C++</li>
-  <li>Reset API</li>
-  <li>SQL</li>
+  <li>C#</li>
+  <li>Object-Oriented Programming (OOP)</li>
+  <li>Data structure </li>
+   <li>Problem solving</li>
+  <li>Dart</li>
   <li>Flutter</li>
-  <li>HTML CSS JS</li>
+ <li>Reset API</li>
+  <li>SQL</li>
+ <li>HTML CSS JS</li>
+  
+  
+  
 </ul>
 
 
