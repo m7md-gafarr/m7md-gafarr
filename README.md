@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://https://www.linkedin.com/in/mohamed-sobhy-04885523a/" target="blank">
+ <a href="https://www.linkedin.com/in/mohamed-sobhy-04885523a/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/m7md_gafar/" target="blank">
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.facebook.com/profile.php?id=100012923951506" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  <img align="center" alt="Pramod's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
  </a> 
   <br/>
   <br/>
