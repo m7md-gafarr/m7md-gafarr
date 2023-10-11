@@ -1,11 +1,10 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>Welcome to my GitHub profile! I’m a software engineering student. I have experience variety of programming languages and frameworks. I’m passionate about coding and enjoy working on projects that challenge me. I’m also interested in learning new programming languages and technologies.
+Welcome to my GitHub profile! I’m a software engineering student. I have experience variety of programming languages and frameworks. I’m passionate about coding and enjoy working on projects that challenge me. I’m also interested in learning new programming languages and technologies.
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
-	- Python ❤️
 	- C++
-	- Some Java
+	- Some C#
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
