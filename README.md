@@ -1,5 +1,5 @@
 ## Ashraf Mohamed
-Welcome to my GitHub profile! I’m a software engineering student. I have experience variety of programming languages and frameworks. I’m passionate about coding and enjoy working on projects that challenge me. I’m also interested in learning new programming languages and technologies.
+Welcome to my GitHub profile! I’m a Information Systems student. I have experience variety of programming languages and frameworks. I’m passionate about coding and enjoy working on projects that challenge me. I’m also interested in learning new programming languages and technologies.
 
 
 ## skills 
