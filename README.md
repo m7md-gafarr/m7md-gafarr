@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
   <li>Flutter</li>
  <li>Reset API</li>
   <li>SQL</li>
- <li>HTML CSS JS</li>
+ <li>Some HTML CSS JS</li>
+ <li>Some ASP.Net</li>
   
   
   
