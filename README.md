@@ -1,10 +1,11 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-Welcome to my GitHub profile! I’m a Information Systems student. I have experience variety of programming languages and frameworks. I’m passionate about coding and enjoy working on projects that challenge me. I’m also interested in learning new programming languages and technologies.
+<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
+	- Python ❤️
 	- C++
-	- Some C#
+	- Some Java
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
@@ -52,9 +53,13 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
  <a href="https://medium.com/@pramodrana2107" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
-
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
 </p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
+<br/>
+<p>
+Visit my profile and give a ⭐️ if you like it</p>
 
-
-
-
+⭐️ From [rajput2107](https://github.com/rajput2107)
