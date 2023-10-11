@@ -53,11 +53,9 @@
  <a href="https://medium.com/@pramodrana2107" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
-  <br/>
-  <br/>
-  <br/>
+
 </p>
 
-<br/>
+
 
 
