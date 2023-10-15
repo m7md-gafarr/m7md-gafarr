@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
   <li>Dart</li>
   <li>Flutter</li>
  <li>Reset API</li>
+<li>Firebase</li>
   <li>SQL</li>
  <li>Some HTML CSS JS</li>
  <li>Some ASP.Net</li>
