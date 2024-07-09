@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I’m a Information Systems student. I have experi
  <li>Some ASP.Net</li>
 
 
-/* ## I will learn in the future...
-  <li>Data Science</li>*/
   
   
 </ul>
