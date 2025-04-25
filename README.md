@@ -63,7 +63,7 @@
 
 
 
-
 <div align="center">
-![snake gif](https://github.com/m7md-gafarr/m7md-gafarr/blob/output/github-contribution-grid-snake.gif)
-</div>
+   <img alt="snake eating my contributions" src="https://github.com/m7md-gafarr/m7md-gafarr/blob/output/github-contribution-grid-snake.svg" />
+ </div>
+
