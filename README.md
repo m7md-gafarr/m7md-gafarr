@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhamad+Sobhy+Gafar!;&color=4B4B4B" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhamad+Sobhy+Gafar!;&color=888888" />
 </h1>
 
 
@@ -67,3 +67,6 @@
    <img alt="snake eating my contributions" src="https://github.com/m7md-gafarr/m7md-gafarr/blob/output/snake.svg" />
  </div>
 
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{m7md-gafarr}/count.svg)
