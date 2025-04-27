@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohamed! 👋
 
-I’m a Flutter Developer with a strong passion for mobile app development. I specialize in building high-performance, beautiful apps for both Android and iOS using Flutter and Dart.
+Welcome to my GitHub profile! I’m a Flutter Developer with a strong passion for mobile app development. I specialize in building high-performance, beautiful apps for both Android and iOS using Flutter and Dart.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=m7md-gafarr&style=flat&color=blue" alt="Profile Views" />
@@ -39,7 +39,7 @@ I’m a Flutter Developer with a strong passion for mobile app development. I sp
 ### Payment Integrations
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" height="30"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Paymob-00C4B4?style=for-the-badge&logo=paymob&logoColor=white" height="30">
 ### UI/UX Design
-<img src="https://img.shields.io/badge/UI_Design-FF4081?style=for-the-badge&logo=figma&logoColor=white" height="30"> <img src="https://img.shields.io/badge/UX_Design-FF4081?style=for-the-badge&logo=figma&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"> 
+<img src="https://img.shields.io/badge/UI_Design-FF4081?style=for-the-badge&logo=figma&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"> 
 
 ### Other Technologies
 <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Problem_Solving-00599C?style=for-the-badge&logo=code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge&logo=code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge&logo=code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge&logo=code&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30">
@@ -52,19 +52,19 @@ I’m a Flutter Developer with a strong passion for mobile app development. I sp
 
 <h3 align="center"> CONNECT WITH ME </h3>
 <div align="center">
-
   <a href="mailto:m7md.gafarr@gmail.com">
-   <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" style="vertical-align: middle;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mohamed-sobhy-gafar-291162341/" >
-   <img src="https://skillicons.dev/icons?i=linkedin" /> 
+  <a href="https://www.linkedin.com/in/mohamed-sobhy-gafar-291162341/">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="vertical-align: middle;" />
   </a>
 
-  <a href="https://discord.com/users/m7md_gafar" >
-   <img src="https://skillicons.dev/icons?i=discord" /> 
+  <a href="https://discord.com/users/m7md_gafar">
+    <img src="https://skillicons.dev/icons?i=discord" style="vertical-align: middle;" />
   </a>
 </div>
+
 
 
 
