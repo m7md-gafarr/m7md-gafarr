@@ -75,17 +75,15 @@
 </h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/theahmedhany/" target="_blank">
+  <a href="https://www.linkedin.com/in/MohamedSobhyGafar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
   </a>
-  <a href="mailto:a7medhanyshokry@gmail.com" target="_blank">
+  <a href="mailto:m7md.gafarr@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" height="45" alt="gmail logo"/> 
   </a>
-  <a href="https://x.com/theahmedhany" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
-  </a>
-  <a href="https://theahmedhany.github.io/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5e1c79a9-21cc-41f8-818f-820582f6abbe" width="45" height="45" alt="portfolio logo"/>
+
+  <a href="https://discord.com/users/m7md_gafar">
+    <img src="https://skillicons.dev/icons?i=discord" style="vertical-align: middle;" />
   </a>
 </div>
 
