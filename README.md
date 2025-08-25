@@ -1,5 +1,4 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=m7md-gafarr&style=flat&color=blue&labelColor=000000" media="(prefers-color-scheme: dark)" />
-<img align="right" src="https://komarev.com/ghpvc/?username=m7md-gafarr&style=flat&color=4B8BBE&labelColor=FFFFFF" media="(prefers-color-scheme: light)" />
 
 <h1 align="center">
   <picture>
