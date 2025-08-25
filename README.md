@@ -15,7 +15,7 @@
 <h3 align="center">⚒️ Languages & Frameworks ⚒️</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45", width="45" alt="cpp logo"/>
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45", width="45" alt="cs logo"/>
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="45", width="45" alt="cs logo"/>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45",width="45" alt="python logo"/>
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45",width="45" alt="Dart logo"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45",width="45" alt="flutter logo"/>
@@ -24,7 +24,7 @@
   <img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="45" height="45" alt="hive logo"/>
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45",width="45" alt="firebase logo"/>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45" alt="supabase logo"/>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45" alt="flask logo"/>
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="45",width="45" alt="flask logo"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45",width="45" alt="mysql logo"/>
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="45",width="45" alt="sqlite logo"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" height="45" alt="html logo"/>
