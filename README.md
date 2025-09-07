@@ -72,7 +72,13 @@
     <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=m7md-gafarr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </picture>
 </div>
-
+<h3 align="center"> My Portfolio </h3>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://0x4d53.vercel.app" target="_blank">
+    <img src="https://0x4d53.vercel.app/preview.jpg" alt="My Portfolio" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  </a>
+  <p align="center" >Click the image to visit my portfolio website</p>
+</div>
 <h3 align="center"> CONNECT WITH ME </h3>
 <div align="center">  
   <a href="mailto:m7md.gafarr@gmail.com">
@@ -97,10 +103,4 @@
     </picture>
   </a>
 </div>
-<h3 align="center"> OR </h3>
-<div align="center" style="margin: 20px 0;">
-  <a href="https://0x4d53.vercel.app" target="_blank">
-    <img src="https://0x4d53.vercel.app/preview.jpg" alt="My Portfolio" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </a>
-  <p align="center" >Click the image to visit my portfolio website</p>
-</div>
+
