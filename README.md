@@ -74,7 +74,7 @@
 </div>
 <h3 align="center"> My Portfolio </h3>
 <div align="center" style="margin: 20px 0;">
-  <a href="https://0x4d53.vercel.app" target="_blank">
+  <a href="https://www.0x4d53.me" target="_blank">
     <img src="https://0x4d53.vercel.app/preview.jpg" alt="My Portfolio" width="300" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
   </a>
   <p align="center" >Click the image to visit my portfolio website</p>
