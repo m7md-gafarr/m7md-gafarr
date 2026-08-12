@@ -12,7 +12,7 @@
   </picture>
 </h1>
 
-<h3 align="center">Computer Science graduate with a passion for Mobile development.</h3>
+<h3 align="center">Software Engineer engineering solutions, not just writing code.</h3>
 <br/>   
 <div align="center">
   <picture>
@@ -53,6 +53,24 @@
   <img src="https://skillicons.dev/icons?i=xd&theme=dark" width="45" height="45" alt="xd logo"/>
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="45" height="45" alt="ps logo"/>
   <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="45" height="45" alt="ai logo"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="45" width="45" alt="docker logo"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" width="45" alt="linux logo"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" width="45" alt="postgres logo"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45" width="45" alt="fastapi logo"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="45" width="45" alt="redis logo"/>
+
+  
+<img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45" width="45" alt="redis logo"/>
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="45" width="45" alt="redis logo"/>
+
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="45" width="45" alt="redis logo"/>
+
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="45" width="45" alt="redis logo"/>
+
+<img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45" width="45" alt="redis logo"/>
+
+
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=notion&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=notion&theme=light" />
